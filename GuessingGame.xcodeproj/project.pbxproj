@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		58FB9A242D39999600489286 /* GuessingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		58FB9A242D39999600489286 /* GuessingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = GuessingGame.app; path = "/Users/xinchenji/Desktop/Pre AP Computer Science/GuessingGame/build/Debug-iphoneos/GuessingGame.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				58FB9A262D39999600489286 /* GuessingGame */,
-				58FB9A252D39999600489286 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		58FB9A252D39999600489286 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				58FB9A242D39999600489286 /* GuessingGame.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 58FB9A1B2D39999600489286;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 58FB9A252D39999600489286 /* Products */;
+			productRefGroup = 58FB9A1B2D39999600489286;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
